@@ -11,4 +11,4 @@ Ha mindent jól csináltál, akkor egy bal oldalról előugró animált menüt k
 
 - Figyelj oda, hogy ugyanarra az elemre kell több szelektor vagy egyik a másikba van ágyazva!  
 - Az alulvonások száma sem mindegy, pontosan olyan legyen az oszályok 
-neve, ahogyan megadtuk.
+  neve, ahogyan megadtuk.
